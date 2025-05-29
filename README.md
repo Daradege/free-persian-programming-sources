@@ -54,8 +54,4 @@ Here we have collected free Persian language courses for you, dear ones, so that
 ---
 
 > **Looking for a course not listed here?**
-> Feel free to open an issue or leave a comment — we’re here to help! 😉
-
----
-
-Let me know if you want a Markdown `.md` file version of this!
+> Feel free to open an issue — we’re here to help! 😉
